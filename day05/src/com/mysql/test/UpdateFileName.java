@@ -1,7 +1,7 @@
 package com.mysql.test;
 
 import java.io.File;
-
+//修改本地磁盘文件名
 public class UpdateFileName {
 
 	public static String  rename(String oldnmae,String newname) {
